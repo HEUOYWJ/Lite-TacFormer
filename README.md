@@ -2,7 +2,7 @@
 
 Tactile material recognition with a lightweight Transformer: a **source-domain classifier** trained on multiple operators plus an **ultra-fast few-shot personal calibration** protocol (BN statistics adaptation + classification head + LoRA adapters) that adapts a pretrained backbone to a new operator using only **20 samples (5 per material)**, trained **on CPU in ~4 seconds**.
 
-Companion code of the ICASSP 2027 submission. The dataset is **not** distributed in this repository.
+Companion code of the ICASSP 2027 submission. 
 
 ## Sensor & Data
 
