@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Data (not distributed)
+data/
+
+# Generated outputs
+outputs/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
